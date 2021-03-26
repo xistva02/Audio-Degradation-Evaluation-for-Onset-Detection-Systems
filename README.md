@@ -27,3 +27,6 @@ Onset detectors:
   
 Results:
 
+![Different degradations](https://octodex.github.com/images/yaktocat.png)
+
+
