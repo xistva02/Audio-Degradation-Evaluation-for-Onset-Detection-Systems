@@ -16,11 +16,11 @@ Degradations:
   –	Teager–Kaiser energy operator
 
 Onset detectors:
-  –	ComplexFlux (https://github.com/CPJKU/madmom/blob/master/bin/ComplexFlux)
-  –	Librosa (https://librosa.org/doc/main/onset.html)
-  –	CNN (https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
-  –	RNN (https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
-  –	SuperFlux (https://github.com/CPJKU/madmom/blob/master/bin/SuperFluxNN)
+  –	[ComplexFlux](https://github.com/CPJKU/madmom/blob/master/bin/ComplexFlux)
+  –	[Librosa](https://librosa.org/doc/main/onset.html)
+  –	[CNN](https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
+  –	[RNN](https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
+  –	[SuperFlux](https://github.com/CPJKU/madmom/blob/master/bin/SuperFluxNN)
   
 Results:
 
