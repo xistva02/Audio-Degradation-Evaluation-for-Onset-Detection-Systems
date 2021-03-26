@@ -27,7 +27,7 @@ Onset detectors:
   
 Results:
 
-![Different degradations](https://github.com/xistva02/Audio-Degradation-Evaluation-for-Onset-Detection-Systems/blob/main/results/images/degradations_spectrograms.pngs=200)
+![Different degradations](https://github.com/xistva02/Audio-Degradation-Evaluation-for-Onset-Detection-Systems/blob/main/results/images/degradations_spectrograms.png)
 
-
+<img src="https://github.com/xistva02/Audio-Degradation-Evaluation-for-Onset-Detection-Systems/blob/main/results/images/degradations_spectrograms.png" width="400" height="790">
 
