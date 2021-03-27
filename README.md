@@ -8,7 +8,7 @@ A total of 6 degradations and 5 detection systems were tested. F-score, Recall, 
 
 Dataset: [onsets_ISMIR_2012](https://github.com/CPJKU/onset_db) – 321 audio excerpts with ground truth annotation available. Dataset is also divided into 6 categories: Bowed string (BS), Complex mixtures (CM), Non-pitched percussive (NPP), Pitched percussive (PP), Vocal, and Wind instruments (WI).
 
-Main packages and software used: Python 3.7.6, Matlab 2015a, [Audio Degradation Toolbox](https://code.soundsoftware.ac.uk/projects/audio-degradation-toolbox), [FFmpeg](libavcodec), [madmom](https://pypi.org/project/madmom/), and librosa[(https://librosa.org/doc/latest/index.html)].
+Main packages and software used: Python 3.7.6, Matlab 2015a, [Audio Degradation Toolbox](https://code.soundsoftware.ac.uk/projects/audio-degradation-toolbox), [FFmpeg](libavcodec), [madmom](https://pypi.org/project/madmom/), and [librosa](https://librosa.org/doc/latest/index.html).
 
 Degradations:
   *	radio broadcast simulation
