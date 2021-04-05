@@ -1,0 +1,4 @@
+ff123_duel.wav
+SoundCheck2_60_Vocal_Tenor_opera.wav
+SoundCheck2_61_Vocal_Soprano_opera.wav
+SoundCheck2_62_Vocal_Male_Rock_Vocal.wav

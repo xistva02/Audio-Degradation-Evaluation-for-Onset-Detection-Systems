@@ -1,0 +1,4 @@
+For this study, we used the onsets_ISMIR_2012 dataset introduced in [1]. 
+Also, contrary to the original article, some onsets were corrected by the authors.
+
+[1] J. Schlüter and S. Böck, “Musical Onset Detection with Convolutional Neural Networks”. Proceedings of the 6th International Workshop on Machine Learning and Music, 2013.
