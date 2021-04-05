@@ -24,8 +24,3 @@ Onset detectors:
   *	[CNN](https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
   *	[RNN](https://madmom.readthedocs.io/en/latest/modules/features/onsets.html)
   *	[SuperFlux](https://github.com/CPJKU/madmom/blob/master/bin/SuperFluxNN)
-  
-Results:
-
-<img src="https://github.com/xistva02/Audio-Degradation-Evaluation-for-Onset-Detection-Systems/blob/main/results/images/degradations_spectrograms.png" width="700" height="800">
-
