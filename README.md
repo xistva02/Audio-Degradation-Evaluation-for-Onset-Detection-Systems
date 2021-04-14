@@ -1,4 +1,4 @@
-# Audio Degradation Evaluation for Onset Detection Systems
+# The Effect of Audio Degradation on Onset Detection Systems
 Supplementary material for the paper:
   XXX
   
