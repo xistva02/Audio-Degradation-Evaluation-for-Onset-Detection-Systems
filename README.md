@@ -1,7 +1,19 @@
 # The Effect of Audio Degradation on Onset Detection Systems
-Supplementary material for the paper:
-  XXX
+Supplementary material for the paper: The Effect of Audio Degradation on Onset Detection Systems
   
+Source: http://www.elektrorevue.cz/cz/clanky/zpracovani-signalu/0/the-effect-of-audio-degradation-on-onset-detection-systems/
+BibTeX: 
+@article{Istvanek_Elektrorevue_22,
+  author="Matěj {Ištvánek}",
+  title="The Effect of Audio Degradation on Onset Detection Systems",
+  publisher="Elektrorevue",
+  number="1",
+  volume="24",
+  year="2022",
+  month="March",
+  pages="1--13"
+}
+
 Onset detection is one of the subjects of research in the field of Music Information Retrieval (MIR). Onset detectors achieve relatively good results (see [MIREX website](https://nema.lis.illinois.edu/nema_out/mirex2018/results/aod/)), yet the "imaginary ceiling" has not yet been reached. In our study, we tested the degradation of the input audio signal of detectors to increase the accuracy and robustness of detection systems. The purpose was to explore the possibility of incorporating signal degradation into the pre-processing phase of detection systems to increase their accuracy.
 
 A total of 6 degradations and 5 detection systems were tested. F-score, Recall, and Precision were calculated for each combination. The evaluation window was set to 50 ms and 100 ms.
