@@ -2,15 +2,25 @@
 Supplementary material for the paper: The Effect of Audio Degradation on Onset Detection Systems
   
 Source: http://www.elektrorevue.cz/cz/clanky/zpracovani-signalu/0/the-effect-of-audio-degradation-on-onset-detection-systems/
+
 BibTeX: 
+
 @article{Istvanek_Elektrorevue_22,
+
   author="Matěj {Ištvánek}",
+  
   title="The Effect of Audio Degradation on Onset Detection Systems",
+  
   publisher="Elektrorevue",
+  
   number="1",
+  
   volume="24",
+  
   year="2022",
+  
   month="March",
+  
   pages="1--13"
 }
 
