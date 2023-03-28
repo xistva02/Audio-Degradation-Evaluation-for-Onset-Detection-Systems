@@ -30,7 +30,7 @@ Onset detectors:
 BibTeX:  
 ```
 @article{Istvanek_Elektrorevue_22,
-  author="Matěj {Ištvánek}",  
+  author="Matěj Ištvánek",  
   title="The Effect of Audio Degradation on Onset Detection Systems",  
   publisher="Elektrorevue",  
   number="1",  
